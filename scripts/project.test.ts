@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test";
-import project from "../package.json" assert { type: "json" };
+import project from "../package.json";
 
 /**
  * all dependencies should be documented
